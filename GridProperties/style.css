@@ -1,0 +1,40 @@
+body {
+  width: 60em;
+  margin: 0 auto;
+}
+
+section {
+  padding: 2em;
+  margin: 1em;
+}
+
+#verde {
+  background-color: #8ffda7;
+}
+
+#arancio {
+  background-color: #ffc788;
+}
+
+#giallo {
+  background-color: #ffff92;
+}
+
+#rosso {
+  background-color: #ff919c;
+}
+
+#blu {
+  background-color: #98d2ff;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  background-color: white;
+  padding: 1em;
+  display: block;
+  margin: 1em;
+}
