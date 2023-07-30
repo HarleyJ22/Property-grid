@@ -1,6 +1,6 @@
- section{
+ section.grid {
     display:grid;
-    grid-template-columns: repeat(3, 50px);
+    grid-template-columns: repeat(3, 100%);
     grid-template-rows: auto;
     grid-template-areas: 
     "verde verde verde"
